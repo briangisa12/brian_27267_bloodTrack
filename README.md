@@ -1,9 +1,12 @@
 # Blood Donor Recall and Unit Expiry Tracker
 
 **Student:** Brian Ganza GISAGARA
+
 **Student ID:** 27267
+
 **Course:** INSY 8311 – Database Development with PL/SQL (Group C)
-**Instructor:** Eric Maniraguha
+
+
 **Academic year:** 2026–2027, Semester I
 
 ---

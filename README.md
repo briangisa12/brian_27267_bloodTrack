@@ -97,6 +97,11 @@ Later phases add more folders (SQL scripts, diagrams, innovation).
 
 ## References
 
+- Beliën, J., & Forcé, H. (2012). Supply chain management of blood products: A literature review. *European Journal of Operational Research, 217*(1), 1–16. https://doi.org/10.1016/j.ejor.2011.05.026
+- Nisingizwe, M. P., Ndishimye, P., Swaibu, K., Nshimiyimana, L., Karame, P., Dushimiyimana, V., Musabyimana, J. P., Musanabaganwa, C., Nsanzimana, S., & Law, M. R. (2022). Effect of unmanned aerial vehicle (drone) delivery on blood product delivery time and wastage in Rwanda: A retrospective, cross-sectional study and time series analysis. *The Lancet Global Health, 10*(4), e564–e569. https://doi.org/10.1016/S2214-109X(22)00048-1
+- Oracle. (n.d.). DBMS_SCHEDULER. In *Oracle Database PL/SQL Packages and Types Reference* (19c). https://docs.oracle.com/en/database/oracle/oracle-database/19/arpls/DBMS_SCHEDULER.html
+- World Health Organization. (2026, June 12). *Blood safety and availability* [Fact sheet]. https://www.who.int/news-room/fact-sheets/detail/blood-safety-and-availability
 - Yeh, I.-C. (2008). *Blood Transfusion Service Center* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5GS39
+- Yeh, I.-C., Yang, K.-J., & Ting, T.-M. (2009). Knowledge discovery on RFM model using Bernoulli sequence. *Expert Systems with Applications, 36*(3), 5866–5871. https://doi.org/10.1016/j.eswa.2008.07.018
 
 The full list of sources is in [docs/research/research_log.md](docs/research/research_log.md).

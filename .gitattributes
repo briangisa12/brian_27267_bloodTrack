@@ -1,0 +1,2 @@
+# keep raw data byte-for-byte as downloaded
+data/raw/** -text
